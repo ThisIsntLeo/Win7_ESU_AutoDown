@@ -6,3 +6,5 @@ As you can tell based on the description above, this is only the autodownloader.
 Just run the desired arch without admin.
 # What is compatible?
 Pro, Enterprise, Ultimate
+# Additional notes
+This relies on Firefox for downloading. Please install Firefox before running scripts.
