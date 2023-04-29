@@ -8,3 +8,4 @@ Just run the desired arch without admin.
 Pro, Enterprise, Ultimate
 # Additional notes
 This relies on Firefox for downloading. Please install Firefox before running scripts.
+You might need to edit and add more "cd.." depending on how many folders it is in. You can check with debug ver
